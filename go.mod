@@ -1,6 +1,6 @@
 module github.com/ViRb3/wgcf/v2
 
-go 1.18
+go 1.26.0
 
 require (
 	github.com/ViRb3/optic-go v0.0.0-20240309111653-486347a8369d
@@ -9,7 +9,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
-	golang.org/x/crypto v0.28.0
+	golang.org/x/crypto v0.58.0
 	golang.org/x/oauth2 v0.23.0
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -41,8 +41,8 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
-	golang.org/x/sys v0.26.0 // indirect
-	golang.org/x/text v0.19.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
+	golang.org/x/text v0.43.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
