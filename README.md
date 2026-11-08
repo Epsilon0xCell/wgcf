@@ -1,3 +1,7 @@
+![Banner: a key cutter's black bench with the machine turning over a brass blank under its orange safety guard, bright filings scattered below the wheel and two rows of finished keys hanging in exact order on hooks behind it](banner.png)
+
+<p align="center"><img src="logo.png" alt="wgcf logo: a brass key blank clamped in a key cutting machine, the steel cutter wheel at its bow beside a finished brass key, the orange safety guard raised above the wheel" width="200"></p>
+
 # wgcf
 > wgcf is an unofficial, cross-platform CLI for [Cloudflare Warp](https://1.1.1.1/)
 
